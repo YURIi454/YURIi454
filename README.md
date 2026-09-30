@@ -18,6 +18,7 @@
 10. [Трекер привычек](https://github.com/YURIi454/T_E_T)
 11. [Апишка библиотеки](https://github.com/YURIi454/LibMan)
 12. [Модель торговой цепи](https://github.com/YURIi454/TECH_TREE)
+13. [Трекер самолётов](https://github.com/YURIi454/TRaIR)
 
 ## Лицензия
 
